@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="TDA3Engine.Bullet">
+    <Type>DoT</Type>
+    <AoERadius>0</AoERadius>
+    <dotDamagePercentage>0.3</dotDamagePercentage>
+    <dotTime>2.5</dotTime>
+    <dosTime>0</dosTime>
+    <decSpeed>0</decSpeed>
+    <TextureAsset>pebble</TextureAsset>
+    <ParticleAsset>pebble_particle</ParticleAsset>
+    <Speed>400</Speed>
+    <DieTime>0.3</DieTime>
+    <Element>Fire</Element>
+  </Asset>
+</XnaContent>

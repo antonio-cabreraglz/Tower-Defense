@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="TDA3Engine.Tower">
+    <Name>Torre de hierba</Name>
+    <Description>Hace daño directo a los aliens</Description>
+    <ThumbnailAsset>grass_thumb</ThumbnailAsset>
+    <TextureAsset>grasstower</TextureAsset>
+    <RadiusTextureAsset>radius</RadiusTextureAsset>
+    <Cost>90</Cost>
+    <Level>1</Level>
+    <MaxLevel>5</MaxLevel>
+    <InitialStatistics>
+      <Health>100</Health>
+      <Damage>8</Damage>
+      <Speed>1</Speed>
+      <Accuracy>0.9</Accuracy>
+      <CriticalChance>5</CriticalChance>
+      <CriticalHitScalar>0.9</CriticalHitScalar>
+      <Radius>3</Radius>
+    </InitialStatistics>
+    <UpgradeStatistics>
+      <HealthIncrease>20</HealthIncrease>
+      <DamageIncrease>12</DamageIncrease>
+      <SpeedIncrease>0.2</SpeedIncrease>
+      <AccuracyIncrease>1</AccuracyIncrease>
+      <CriticalChanceIncrease>1</CriticalChanceIncrease>
+      <CriticalHitScalarIncrease>0.5</CriticalHitScalarIncrease>
+      <RadiusIncrease>1</RadiusIncrease>
+    </UpgradeStatistics>
+    <BulletAsset>Grass</BulletAsset>
+    <SellScalar>0.5</SellScalar>
+  </Asset>
+</XnaContent>

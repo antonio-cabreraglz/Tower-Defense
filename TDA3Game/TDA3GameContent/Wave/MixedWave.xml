@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="TDA3Engine.Wave">
+    <MonsterAssets>
+      <Item>FireAlien</Item>
+      <Item>GrassAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>IceAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>GrassAlien</Item>
+      <Item>IceAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>GrassAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>IceAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>GrassAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>GrassAlien</Item>
+      <Item>SlowAlien</Item>
+      <Item>GrassAlien</Item>
+    </MonsterAssets>
+    <Title>Mixed Wave</Title>
+    <BossWave>false</BossWave>
+    <MonsterSpawnTimer>3.5</MonsterSpawnTimer>
+    <MoneyPerKill>12</MoneyPerKill>
+    <BossMoneyScalar>2.0</BossMoneyScalar>
+  </Asset>
+</XnaContent>
